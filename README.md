@@ -1,5 +1,5 @@
 # MullyMelee
-Simultate the Mully Melee scenario laid out in the [Fall 2019 THACHER magazine](https://www.thacher.org/explore/thacher-today/magazine/fall-2019)(p. 3) 
+Simultate the Mully Melee scenario laid out in the [Fall 2019 THACHER magazine](https://www.thacher.org/explore/thacher-today/magazine/fall-2019) (p. 3) 
 
 To run the simulation, simply download the `MullyMelee.py` file. You can run this file in several ways, the simplest being:
 1) Open the Terminal
