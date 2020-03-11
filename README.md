@@ -8,8 +8,8 @@ To run the simulation, simply download the `MullyMelee.py` file. You can run thi
 
 This should launch an interaction that looks like:
 ```
-How many seats should there be in the Mully? *Num. of Seats*
-How many times would you like to simulate? *Num. of Simulations*
+How many seats should there be in the Mully? <Type the Num. of Seats>
+How many times would you like to simulate? <Tyep the Num. of Simulations>
 Simulating...
-Avg. Freq. of Last Seat Available: *Answer*
+Avg. Freq. of Last Seat Available: <Prints the Answer>
 ```
